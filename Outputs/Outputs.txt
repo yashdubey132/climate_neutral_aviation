@@ -1,0 +1,230 @@
+Max. non-CO2 ERF contributions:
+SSP1-2.6 (FF): 0.79+/-0.12 in year [2056] interval: [0.52812945]-[0.86271362]
+SSP1-2.6 (FF) in 2100: 2100-01-01    0.61+/-0.17
+dtype: object interval: [0.3125338]-[0.7252243]
+Max % non-CO2 SSP5-8.5 (FF): 0.81+/-0.10 in year [2051] interval: [0.57793795]-[0.87714687]
+SSP1-2.6 (SAFs): 0.69+/-0.16 in year [2059] interval: [0.32718821]-[0.77607704]
+SSP5-8.5 (SAFs): 0.87+/-0.08 in year [2100] interval: [0.63842547]-[0.92197882]
+CO2 ERF contributions:
+2018: 2018-01-01    0.38+/-0.16
+dtype: object interval: [0.66828031]-[0.2666815]
+2100 SSP5-85 (FF): 2100-01-01    0.26+/-0.13
+dtype: object interval: [0.52481747]-[0.17504946]
+2100 SSP5-85 (SAF): 2100-01-01    0.13+/-0.08
+dtype: object interval: [0.36157453]-[0.07802118]
+Contrail ERF contributions:
+2018: 2018-01-01    0.58+/-0.19
+dtype: object interval: [0.30480248]-[0.69448728]
+2100 SSP5-85 (FF): 2100-01-01    0.71+/-0.15
+dtype: object interval: [0.42317828]-[0.80591163]
+2100 SSP5-85 (SAF): 2100-01-01    0.78+/-0.16
+dtype: object interval: [0.3877294]-[0.85859703]
+Paris-compatible aviation warming by 2100: 0.036
+FF by 2100 SSP1-2.6: 0.103±0.045
+ & SSP5-8.5: 0.438±0.222
+SAF by 2100 SSP1-2.6: 0.045±0.02
+ & SSP5-8.5: 0.147±0.093
+E-airplanes by 2100 SSP1-2.6: 0.031±0.004
+ & SSP5-8.5: 0.05±0.007
+CO2-neutrality mitigation:
+ & SSP1-2.6: -0.17 (-0.29--0.12)
+ & SSP5-8.5: -0.2 (-0.41--0.14)
+Jet A1 $\Delta$T by 2100:
+   summary_fair  summary_fair_std Scenario Climate neutrality
+0      0.034576          0.044629  SSP1_26               Gold
+1      0.011807          0.124269  SSP2_45               Gold
+2      0.019694          0.213855  SSP5_85               Gold
+3      0.048782          0.044703  SSP1_26             Silver
+4      0.026996          0.124493  SSP2_45             Silver
+5      0.026996          0.124493  SSP5_85             Silver
+6      0.128954          0.045240  SSP1_26             Bronze
+7      0.142239          0.125938  SSP2_45             Bronze
+8      0.204695          0.217759  SSP5_85             Bronze
+Zero-CO$_2$ fuels $\Delta$T by 2100:
+    summary_fair  summary_fair_std Scenario Climate neutrality
+9       0.027947          0.019532  SSP1_26               Gold
+10      0.021427          0.054592  SSP2_45               Gold
+11      0.025173          0.091571  SSP5_85               Gold
+12      0.040744          0.019564  SSP1_26             Silver
+13      0.034253          0.054655  SSP2_45             Silver
+14      0.034253          0.054655  SSP5_85             Silver
+15      0.065636          0.019635  SSP1_26             Bronze
+16      0.075223          0.054868  SSP2_45             Bronze
+17      0.097794          0.092130  SSP5_85             Bronze
+No-emissions aircraft $\Delta$T by 2100:
+    summary_fair  summary_fair_std Scenario Climate neutrality
+18      0.031218          0.004198  SSP1_26               Gold
+19      0.035336          0.005448  SSP2_45               Gold
+20      0.039562          0.006713  SSP5_85               Gold
+21      0.045174          0.004159  SSP1_26             Silver
+22      0.049770          0.005338  SSP2_45             Silver
+23      0.049770          0.005338  SSP5_85             Silver
+24      0.101985          0.004291  SSP1_26             Bronze
+25      0.132401          0.005613  SSP2_45             Bronze
+26      0.175849          0.007030  SSP5_85             Bronze
+ $\Delta$T by 2100 with Co2 only:
+             Gold    Silver    Bronze
+SSP1_26  0.085739  0.087059  0.085739
+SSP2_45  0.209091  0.209356  0.209091
+SSP5_85  0.348527  0.209356  0.348527
+             Gold    Silver    Bronze
+SSP1_26  0.045038  0.045043  0.045038
+SSP2_45  0.126863  0.126872  0.126863
+SSP5_85  0.220650  0.126872  0.220650Maximum temperature increase under different climate neutralities:
+Gold SSP1-2.6 (Jet A1): 0.101 (SAFs): 0.059 (E-airplanes): 0.089
+Silver SSP1-2.6 (Jet A1): 0.049 (SAFs): 0.045 (E-airplanes): 0.052
+Bronze SSP1-2.6 (Jet A1): 0.129 (SAFs): 0.066 (E-airplanes): 0.107
+Gold SSP2-4.5 (Jet A1): 0.134 (SAFs): 0.076 (E-airplanes): 0.117
+Silver SSP2-4.5 (Jet A1): 0.053 (SAFs): 0.05 (E-airplanes): 0.057
+Bronze SSP2-4.5 (Jet A1): 0.17 (SAFs): 0.086 (E-airplanes): 0.138
+Gold SSP5-8.5 (Jet A1): 0.171 (SAFs): 0.09 (E-airplanes): 0.147
+Silver SSP5-8.5 (Jet A1): 0.053 (SAFs): 0.05 (E-airplanes): 0.057
+Bronze SSP5-8.5 (Jet A1): 0.23 (SAFs): 0.107 (E-airplanes): 0.184
+Maximum temperature decrease relative to current aviation warming under different climate neutralities:
+Gold SSP1-2.6 (Jet A1): -0.045 (SAFs): -0.024 (E-airplanes): -0.037
+Silver SSP1-2.6 (Jet A1): -0.017 (SAFs): -0.002 (E-airplanes): -0.023
+Bronze SSP1-2.6 (Jet A1): 0.0 (SAFs): 0.0 (E-airplanes): 0.0
+Gold SSP2-4.5 (Jet A1): -0.038 (SAFs): -0.02 (E-airplanes): -0.041
+Silver SSP2-4.5 (Jet A1): -0.015 (SAFs): -0.011 (E-airplanes): -0.019
+Bronze SSP2-4.5 (Jet A1): 0.001 (SAFs): 0.001 (E-airplanes): 0.001
+Gold SSP5-8.5 (Jet A1): -0.06 (SAFs): -0.027 (E-airplanes): -0.058
+Silver SSP5-8.5 (Jet A1): -0.015 (SAFs): -0.004 (E-airplanes): -0.034
+Bronze SSP5-8.5 (Jet A1): 0.001 (SAFs): 0.001 (E-airplanes): 0.001
+Mean CDR rates:
+ CDR rates under Jet A1:
+   summary_Tot_CDR  summary_Tot_CDR_std Scenario Climate neutrality
+0      2236.589962          3783.945943  SSP1_26               Gold
+1      7266.640715          5254.864832  SSP2_45               Gold
+2     11748.041451          7850.267731  SSP5_85               Gold
+3      1864.827624          2706.146694  SSP1_26             Silver
+4      6917.960764          3514.768152  SSP2_45             Silver
+5     11395.066581          5889.342498  SSP5_85             Silver
+6      -624.723245          3275.501546  SSP1_26             Bronze
+7      3336.855020          4403.175660  SSP2_45             Bronze
+8      6200.908346          7163.379757  SSP5_85             Bronze
+Change in CDR rates under Zero-CO$_2$ fuels :
+[-0.74095086 -0.69550071 -0.70399348 -0.88866297 -0.73055543 -0.72580046] Interval : [-0.3473468  -1.08331649 -0.96202489  0.094517   -0.90561553 -0.86969317] - [-0.6397895  -0.63319204 -0.65267538 -0.70770198 -0.67345021 -0.67996531]
+Change in CDR rates under No-emissions aircraft :
+[-0.95330355 -0.94971066 -0.95586418 -1.14334919 -0.9975781  -0.98547313] Interval : [ 0.99567318 -3.14546975 -2.45533122  2.05505122 -1.96017282 -1.78009686] - [-0.4523912  -0.59692758 -0.65764543 -0.55466173 -0.68357633 -0.73235606]
+Cumulative CDR rates:
+ CDR rates under Jet A1:
+   summary_Tot_CDR  summary_Tot_CDR_std Scenario Climate neutrality
+0    181163.786900        308062.820770  SSP1_26               Gold
+1    588597.897932        427531.673508  SSP2_45               Gold
+2    951591.357569        637718.047159  SSP5_85               Gold
+3    150921.087986        220806.453817  SSP1_26             Silver
+4    560692.381318        286470.273637  SSP2_45             Silver
+5    923324.786392        478788.949761  SSP5_85             Silver
+6    -50602.582841        266878.824626  SSP1_26             Bronze
+7    270285.256641        358544.850581  SSP2_45             Bronze
+8    502273.576021        582080.121233  SSP5_85             Bronze
+ Tot/CO2 CDR rates under Jet A1:
+0    4.606782
+1    4.436141
+2    4.724119
+3    4.076726
+4    4.211132
+5    4.580662
+6   -1.286764
+7    2.037084
+8    2.493507
+dtype: float64
+Cumulative CDR rates under Zero-CO$_2$ fuels :
+    summary_Tot_CDR  summary_Tot_CDR_std Scenario Climate neutrality
+9      46930.322523        130294.355313  SSP1_26               Gold
+10    179227.639355        194692.004672  SSP2_45               Gold
+11    281677.244747        271534.117909  SSP5_85               Gold
+12     16687.623609         93014.024580  SSP1_26             Silver
+13    151322.122741        126740.726741  SSP2_45             Silver
+14    253410.673571        196726.378744  SSP5_85             Silver
+15    -45707.313067         94446.109616  SSP1_26             Bronze
+16     47420.615772        138228.585048  SSP2_45             Bronze
+17    104228.804101        217830.695648  SSP5_85             Bronze
+Cumulative CDR rates under No-emissions aircraft :
+    summary_Tot_CDR  summary_Tot_CDR_std Scenario Climate neutrality
+18      8459.704988        260152.268044  SSP1_26               Gold
+19     29600.201868        381100.372450  SSP2_45               Gold
+20     41999.268458        503322.323040  SSP5_85               Gold
+21    -21782.993926        188147.628186  SSP1_26             Silver
+22      1694.685254        267811.075519  SSP2_45             Silver
+23     13732.697281        363055.356123  SSP5_85             Silver
+24   -164945.012442        217037.910320  SSP1_26             Bronze
+25   -207958.362403        317015.580159  SSP2_45             Bronze
+26   -291227.915988        441631.167715  SSP5_85             Bronze
+Mean cost per km of CDR:
+ Cost under Jet A1:
+   summary_Tot_costkm  summary_Tot_costkm_std Scenario Climate neutrality
+0            2.529685                3.881790  SSP1_26               Gold
+1            3.989733                5.228040  SSP2_45               Gold
+2            4.208958                5.491961  SSP5_85               Gold
+3            2.990824                2.857273  SSP1_26             Silver
+4            4.746862                4.173955  SSP2_45             Silver
+5            5.345517                4.711668  SSP5_85             Silver
+6            0.362357                2.684061  SSP1_26             Bronze
+7            1.680254                3.877639  SSP2_45             Bronze
+8            2.030402                4.370028  SSP5_85             Bronze
+ Cost under Zero-CO$_2$ fuels :
+    summary_Tot_costkm  summary_Tot_costkm_std Scenario Climate neutrality
+9             0.880950                0.806790  SSP1_26               Gold
+10            1.266215                1.871864  SSP2_45               Gold
+11            1.270822                1.888818  SSP5_85               Gold
+12            0.837778                1.096017  SSP1_26             Silver
+13            1.649959                1.810258  SSP2_45             Silver
+14            1.932470                2.017039  SSP5_85             Silver
+15            0.054957                0.211146  SSP1_26             Bronze
+16            0.345118                1.191184  SSP2_45             Bronze
+17            0.433476                1.352771  SSP5_85             Bronze
+ Cost under No-emissions aircraft :
+    summary_Tot_costkm  summary_Tot_costkm_std Scenario Climate neutrality
+18            0.863531                2.666942  SSP1_26               Gold
+19            1.091339                3.398940  SSP2_45               Gold
+20            1.122448                3.370622  SSP5_85               Gold
+21            2.003513                2.001301  SSP1_26             Silver
+22            2.517074                2.347977  SSP2_45             Silver
+23            2.761957                2.560826  SSP5_85             Silver
+24            0.011730                0.702797  SSP1_26             Bronze
+25            0.181532                2.104973  SSP2_45             Bronze
+26            0.217749                2.268493  SSP5_85             Bronze
+Mean cost ZH-NY of CDR:
+ Cost under Jet A1:
+   summary_Tot_costkm  summary_Tot_costkm_std Scenario Climate neutrality
+0           45.722255               70.160579  SSP1_26               Gold
+1           72.111576               94.493083  SSP2_45               Gold
+2           76.073901               99.263269  SSP5_85               Gold
+3           54.057015               51.643175  SSP1_26             Silver
+4           85.796139               75.441249  SSP2_45             Silver
+5           96.616400               85.160025  SSP5_85             Silver
+6            6.549341               48.512485  SSP1_26             Bronze
+7           30.369393               70.085561  SSP2_45             Bronze
+8           36.698074               78.985127  SSP5_85             Bronze
+ Cost under Zero-CO$_2$ fuels :
+    summary_Tot_costkm  summary_Tot_costkm_std Scenario Climate neutrality
+9            15.922546               14.582151  SSP1_26               Gold
+10           22.885937               33.832608  SSP2_45               Gold
+11           22.969191               34.139028  SSP5_85               Gold
+12           15.142247               19.809730  SSP1_26             Silver
+13           29.821824               32.719123  SSP2_45             Silver
+14           34.928016               36.456548  SSP5_85             Silver
+15            0.993307                3.816308  SSP1_26             Bronze
+16            6.237769               21.529803  SSP2_45             Bronze
+17            7.834778               24.450375  SSP5_85             Bronze
+ Cost under No-emissions aircraft :
+    summary_Tot_costkm  summary_Tot_costkm_std Scenario Climate neutrality
+18           15.607712               48.203075  SSP1_26               Gold
+19           19.725177               61.433411  SSP2_45               Gold
+20           20.287447               60.921580  SSP5_85               Gold
+21           36.212058               36.172080  SSP1_26             Silver
+22           45.494315               42.438003  SSP2_45             Silver
+23           49.920395               46.285095  SSP5_85             Silver
+24            0.212018               12.702556  SSP1_26             Bronze
+25            3.281068               38.045877  SSP2_45             Bronze
+26            3.935662               41.001394  SSP5_85             Bronze
+Change in cost: 
+ SAFs - [-0.65175502 -0.68263158 -0.69806739 -0.71988378 -0.65241065 -0.63848771
+ -0.84833485 -0.79460344 -0.78650711]([-0.73676259 -0.65956207 -0.67429485 -0.6693291  -0.61211883 -0.60729471
+ -0.91265065 -0.72358186 -0.72091753]-[-1.05484808 -0.51090551 -0.51832078 -2.9336341  -1.27980003 -1.1334219
+ -0.93272665 -0.61496703 -0.60707601]
+ E-airplanes - [-0.6586408  -0.7264631  -0.73331922 -0.33011363 -0.46973937 -0.48331345
+ -0.96762755 -0.89196134 -0.89275562]([-0.44935082 -0.51286723 -0.53684078 -0.31519388 -0.45464065 -0.47074825
+ -0.76545323 -0.58860222 -0.61155072]-[ 0.33378057  0.86351323  0.75227427 -0.98343804 -0.70484359 -0.6826833
+ -0.70234505 -0.12466861 -0.12347327]

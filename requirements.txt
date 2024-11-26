@@ -1,0 +1,6 @@
+numpy
+pandas
+xarray
+scipy
+uncertainties
+fair==1.6.4
