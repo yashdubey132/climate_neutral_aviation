@@ -6,7 +6,7 @@ Create a new Conda environment using
 
 Activate environment using `conda activate my_env`
 
-Install the following packages:
+Install the following packages by using `conda install package_name` unless specified otherwise.
 - numpy
 - pandas
 - xarray
